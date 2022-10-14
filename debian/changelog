@@ -1,0 +1,35 @@
+node-os-browserify (0.3.0-2) unstable; urgency=medium
+
+  * Trim trailing whitespace.
+  * Use secure copyright file specification URI.
+  * Bump debhelper from old 11 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Sat, 28 Aug 2021 23:52:05 +0100
+
+node-os-browserify (0.3.0-1) unstable; urgency=medium
+
+  * New upstream version 0.3.0
+  * Bump standards, compat and move to javascript section
+  * Add myself to uploaders
+  * Fix short description, thanks to Philip Hands (Closes: #855147)
+
+ -- Pirate Praveen <praveen@debian.org>  Tue, 27 Feb 2018 13:27:09 +0530
+
+node-os-browserify (0.2.1-2) unstable; urgency=medium
+
+  * Team upload
+  * Reupload to unstable
+  * Install browser.js file
+
+ -- Pirate Praveen <praveen@debian.org>  Fri, 23 Jun 2017 23:13:12 +0530
+
+node-os-browserify (0.2.1-1) experimental; urgency=low
+
+  * Initial release (Closes: #854267)
+
+ -- Ravishankar Purne <ravisamil96@gmail.com>  Sun, 05 Feb 2017 17:01:59 +0000
